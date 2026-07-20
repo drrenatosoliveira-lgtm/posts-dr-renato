@@ -1,10 +1,58 @@
 [
- {"marca": "dr-renato", "slug": "2026-07-17_nervo-vago-inflamacao", "tipo": "carrossel", "quando": "2026-07-17T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-19_ecg-relogio", "tipo": "feed", "quando": "2026-07-19T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-19_vo2max-longevidade", "tipo": "carrossel", "quando": "2026-07-21T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-22_cerebro-exercicio", "tipo": "feed", "quando": "2026-07-22T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-24_ultraprocessados", "tipo": "carrossel", "quando": "2026-07-24T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-26_musculacao-longevidade", "tipo": "feed", "quando": "2026-07-26T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-28_sono-glinfatico", "tipo": "carrossel", "quando": "2026-07-28T19:00:00-03:00", "status": "pendente"},
- {"marca": "dr-renato", "slug": "2026-07-30_sauna-coracao", "tipo": "feed", "quando": "2026-07-30T19:00:00-03:00", "status": "pendente"}
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-17_nervo-vago-inflamacao",
+  "tipo": "carrossel",
+  "quando": "2026-07-18T19:00:00-03:00",
+  "status": "publicado"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-19_ecg-relogio",
+  "tipo": "feed",
+  "quando": "2026-07-19T19:00:00-03:00",
+  "status": "publicado"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-19_vo2max-longevidade",
+  "tipo": "carrossel",
+  "quando": "2026-07-20T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-22_cerebro-exercicio",
+  "tipo": "feed",
+  "quando": "2026-07-22T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-24_ultraprocessados",
+  "tipo": "carrossel",
+  "quando": "2026-07-24T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-26_musculacao-longevidade",
+  "tipo": "feed",
+  "quando": "2026-07-26T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-28_sono-glinfatico",
+  "tipo": "carrossel",
+  "quando": "2026-07-28T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-07-30_sauna-coracao",
+  "tipo": "feed",
+  "quando": "2026-07-30T20:00:00-03:00",
+  "status": "pendente"
+ }
 ]

@@ -1,0 +1,35 @@
+name: Agendador Instagram (grátis)
+
+# Roda a cada 30 min (horário UTC) e publica os posts vencidos de agenda.json.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}   # permite disparar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write         # para marcar posts como publicados (commit no agenda.json)
+
+concurrency:
+  group: agendador
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Publicar posts vencidos
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+        run: python publicar.py agenda
+      - name: Marcar publicados
+        run: |
+          git config user.name "agendador"
+          git config user.email "agendador@users.noreply.github.com"
+          git add agenda.json
+          git commit -m "posts publicados" || echo "nada a commitar"
+          git push

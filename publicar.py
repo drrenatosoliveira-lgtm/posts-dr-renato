@@ -76,8 +76,8 @@ def upload_publico(local_path):
 
 def urls_publicas(pub, marca, fotos):
     base = pub.get("base_url", "")
-    if base and "USUARIO/REPO" not in base:  # repo próprio configurado
-        return [f"{base.rstrip('/')}/{marca}/aprovacao/{f}" for f in fotos]
+    if base and "USUARIO/REPO" not in base:  # repo próprio (arquivos na raiz do repo)
+        return [f"{base.rstrip('/')}/{f}" for f in fotos]
     out = []  # sem repo -> hospeda na hora
     for f in fotos:
         u = upload_publico(os.path.join(BASE, marca, "aprovacao", f))
@@ -86,9 +86,15 @@ def urls_publicas(pub, marca, fotos):
     return out
 
 
+def _dir(marca):
+    # local usa pasta marca/aprovacao/; na nuvem (GitHub Actions) os arquivos ficam na RAIZ.
+    d = os.path.join(BASE, marca, "aprovacao")
+    return d if os.path.isdir(d) else BASE
+
+
 def imagens(marca, slug):
     """Retorna (lista_de_arquivos_ordenada, tipo). Feed = *_post.png; carrossel = *_hdNN.png."""
-    d = os.path.join(BASE, marca, "aprovacao")
+    d = _dir(marca)
     post = os.path.join(d, f"{slug}_post.png")
     if os.path.exists(post):
         return [f"{slug}_post.png"], "feed"
@@ -97,7 +103,7 @@ def imagens(marca, slug):
 
 
 def legenda(marca, slug):
-    p = os.path.join(BASE, marca, "aprovacao", f"{slug}_caption.txt")
+    p = os.path.join(_dir(marca), f"{slug}_caption.txt")
     return open(p, encoding="utf-8").read().strip() if os.path.exists(p) else ""
 
 
