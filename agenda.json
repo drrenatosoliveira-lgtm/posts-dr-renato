@@ -54,5 +54,61 @@
   "tipo": "feed",
   "quando": "2026-07-30T20:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "festival-camarao",
+  "tipo": "feed",
+  "quando": "2026-07-22T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "semana-da-vela",
+  "tipo": "feed",
+  "quando": "2026-07-23T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "guia-praias",
+  "tipo": "carrossel",
+  "quando": "2026-07-24T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "lagoa-azul",
+  "tipo": "feed",
+  "quando": "2026-07-26T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "celebracao",
+  "tipo": "feed",
+  "quando": "2026-07-28T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "serra-do-mar",
+  "tipo": "feed",
+  "quando": "2026-07-30T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "praia-capricornio",
+  "tipo": "feed",
+  "quando": "2026-08-01T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "inverno-capricornio",
+  "tipo": "feed",
+  "quando": "2026-08-03T20:00:00-03:00",
+  "status": "pendente"
  }
 ]
