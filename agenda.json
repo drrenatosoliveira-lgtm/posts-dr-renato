@@ -110,5 +110,47 @@
   "tipo": "feed",
   "quando": "2026-08-03T20:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-02_refugio-boho",
+  "tipo": "feed",
+  "quando": "2026-08-05T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-04_segredo-agosto",
+  "tipo": "feed",
+  "quando": "2026-08-07T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-06_baixa-temporada",
+  "tipo": "feed",
+  "quando": "2026-08-09T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-08_nascer-do-sol",
+  "tipo": "feed",
+  "quando": "2026-08-11T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-12_aloha-spirit",
+  "tipo": "feed",
+  "quando": "2026-08-13T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-10_feriadao-setembro",
+  "tipo": "feed",
+  "quando": "2026-08-15T19:00:00-03:00",
+  "status": "pendente"
  }
 ]
