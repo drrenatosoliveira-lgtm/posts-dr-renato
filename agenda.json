@@ -152,5 +152,89 @@
   "tipo": "feed",
   "quando": "2026-08-15T19:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-01_dormir-no-frio",
+  "tipo": "carrossel",
+  "quando": "2026-08-01T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-03_zona2",
+  "tipo": "feed",
+  "quando": "2026-08-03T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-05_frio-pressao",
+  "tipo": "carrossel",
+  "quando": "2026-08-05T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-07_dia-dos-pais",
+  "tipo": "feed",
+  "quando": "2026-08-07T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-09_forca-longevidade",
+  "tipo": "carrossel",
+  "quando": "2026-08-09T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-11_vfc-fim-de-semana",
+  "tipo": "feed",
+  "quando": "2026-08-11T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-13_desidratacao-inverno",
+  "tipo": "carrossel",
+  "quando": "2026-08-13T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-15_vo2max-pratico",
+  "tipo": "feed",
+  "quando": "2026-08-15T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-17_cintura-balanca",
+  "tipo": "carrossel",
+  "quando": "2026-08-17T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-21_respiracao-nasal",
+  "tipo": "feed",
+  "quando": "2026-08-21T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-23_passos-por-dia",
+  "tipo": "carrossel",
+  "quando": "2026-08-23T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-08-25_sauna-gelo",
+  "tipo": "feed",
+  "quando": "2026-08-25T19:00:00-03:00",
+  "status": "pendente"
  }
 ]
