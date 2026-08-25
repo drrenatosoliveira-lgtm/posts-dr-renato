@@ -236,5 +236,61 @@
   "tipo": "feed",
   "quando": "2026-08-25T19:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-27_caragua-a-gosto",
+  "tipo": "feed",
+  "quando": "2026-08-27T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-29_cafe-na-praia",
+  "tipo": "feed",
+  "quando": "2026-08-29T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-08-31_feriado-setembro",
+  "tipo": "feed",
+  "quando": "2026-08-31T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-02_sabor-caicara",
+  "tipo": "feed",
+  "quando": "2026-09-02T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-07_sete-de-setembro",
+  "tipo": "feed",
+  "quando": "2026-09-07T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-10_mar-calmo",
+  "tipo": "feed",
+  "quando": "2026-09-10T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-13_casar-primavera",
+  "tipo": "feed",
+  "quando": "2026-09-13T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-22_primavera",
+  "tipo": "feed",
+  "quando": "2026-09-22T20:00:00-03:00",
+  "status": "pendente"
  }
 ]
