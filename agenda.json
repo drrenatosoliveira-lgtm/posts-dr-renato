@@ -274,16 +274,37 @@
  },
  {
   "marca": "paraoka",
-  "slug": "2026-09-10_mar-calmo",
+  "slug": "2026-09-12_refugio-capricornio",
   "tipo": "feed",
-  "quando": "2026-09-10T20:00:00-03:00",
+  "quando": "2026-09-12T20:00:00-03:00",
   "status": "pendente"
  },
  {
   "marca": "paraoka",
   "slug": "2026-09-13_casar-primavera",
   "tipo": "feed",
-  "quando": "2026-09-13T20:00:00-03:00",
+  "quando": "2026-09-14T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-16_lagoa-azul-manha",
+  "tipo": "carrossel",
+  "quando": "2026-09-16T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-18_bird-week-ilhabela",
+  "tipo": "carrossel",
+  "quando": "2026-09-18T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-20_sabores-caicaras",
+  "tipo": "carrossel",
+  "quando": "2026-09-20T20:00:00-03:00",
   "status": "pendente"
  },
  {
@@ -291,6 +312,76 @@
   "slug": "2026-09-22_primavera",
   "tipo": "feed",
   "quando": "2026-09-22T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-24_fazenda-marinha-cocanha",
+  "tipo": "carrossel",
+  "quando": "2026-09-24T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-26_cafe-nascer-do-sol",
+  "tipo": "feed",
+  "quando": "2026-09-26T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-28_rooftop-por-do-sol",
+  "tipo": "feed",
+  "quando": "2026-09-28T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-30_feriadao-outubro",
+  "tipo": "feed",
+  "quando": "2026-09-30T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-02_familia-na-casa",
+  "tipo": "feed",
+  "quando": "2026-10-02T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-04_pe-na-areia",
+  "tipo": "feed",
+  "quando": "2026-10-04T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-06_reserve-feriadao",
+  "tipo": "feed",
+  "quando": "2026-10-06T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-08_experiencias-mar",
+  "tipo": "carrossel",
+  "quando": "2026-10-08T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-10_ultimas-datas-12out",
+  "tipo": "feed",
+  "quando": "2026-10-10T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-09-10_mar-calmo",
+  "tipo": "feed",
+  "quando": "2026-10-12T20:00:00-03:00",
   "status": "pendente"
  }
 ]
