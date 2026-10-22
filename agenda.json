@@ -383,5 +383,145 @@
   "tipo": "feed",
   "quando": "2026-10-24T20:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-26_feriadao-novembro",
+  "tipo": "feed",
+  "quando": "2026-10-26T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-09-16_variedade-exercicio",
+  "tipo": "carrossel",
+  "quando": "2026-10-27T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-28_casa-por-dentro",
+  "tipo": "feed",
+  "quando": "2026-10-28T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-10-04_caminhar-pos-refeicao",
+  "tipo": "feed",
+  "quando": "2026-10-29T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-30_confraternizacao",
+  "tipo": "feed",
+  "quando": "2026-10-30T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-10-02_vinho-e-sono",
+  "tipo": "feed",
+  "quando": "2026-10-31T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-11-01_domingo-no-jardim",
+  "tipo": "feed",
+  "quando": "2026-11-01T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-09-28_apob-colesterol",
+  "tipo": "feed",
+  "quando": "2026-11-03T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-11-03_reveillon",
+  "tipo": "feed",
+  "quando": "2026-11-03T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-09-24_cgm-nao-diabetico",
+  "tipo": "carrossel",
+  "quando": "2026-11-05T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-11-05_quartos",
+  "tipo": "feed",
+  "quando": "2026-11-05T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-11-07_celebracoes-2027",
+  "tipo": "feed",
+  "quando": "2026-11-07T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-11-09_day-use",
+  "tipo": "feed",
+  "quando": "2026-11-09T20:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-09-18_apneia-no-relogio",
+  "tipo": "feed",
+  "quando": "2026-11-10T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-09-20_creatina-cerebro",
+  "tipo": "feed",
+  "quando": "2026-11-12T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-10-02_apple-heart-study",
+  "tipo": "feed",
+  "quando": "2026-11-14T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-10-10_ppg-rastreio",
+  "tipo": "feed",
+  "quando": "2026-11-17T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-10-06_ecg-do-relogio",
+  "tipo": "feed",
+  "quando": "2026-11-19T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-09-26_alem-da-fibrilacao",
+  "tipo": "feed",
+  "quando": "2026-11-21T19:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "dr-renato",
+  "slug": "2026-10-12_rastreia-e-diagnostica",
+  "tipo": "feed",
+  "quando": "2026-11-24T19:00:00-03:00",
+  "status": "pendente"
  }
 ]

@@ -1,0 +1,15 @@
+Nos últimos posts, vimos o relógio detectar fibrilação atrial (Apple Heart Study), rastrear com luz (Huawei Heart Study), registrar um ECG confiável e até flagrar um bloqueio silencioso (relato brasileiro). É muito, e é real.
+
+Mas há uma linha que a tecnologia ainda não cruza: o wearable faz triagem e mostra tendência. Ele não fecha diagnóstico e não define conduta.
+
+Um dado isolado assusta; uma tendência bem lida orienta. E quem transforma o número em decisão (confirmar, investigar, tratar ou apenas tranquilizar) é a avaliação médica.
+
+O melhor da tecnologia não é substituir o médico. É chegar até ele mais cedo, com mais informação.
+
+O futuro da saúde é essa parceria: a tecnologia no seu pulso e a leitura clínica ao seu lado.
+
+Fontes: Apple Heart Study (New England Journal of Medicine, 2019), Huawei Heart Study (Journal of the American College of Cardiology, 2019), meta-análise sobre smartwatches e fibrilação atrial (JACC: Advances, 2025) e relato de caso brasileiro (Arquivos Brasileiros de Cardiologia, 2024).
+Conteúdo educativo, não substitui avaliação individual.
+Dr. Renato Oliveira, médico, CRM-SP 156357.
+
+#CienciaNoPulso #Wearables #SaudeDigital #Prevencao

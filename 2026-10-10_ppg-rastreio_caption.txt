@@ -1,0 +1,15 @@
+Antes do ECG no pulso, existe uma tecnologia mais simples e mais antiga: o PPG. É aquela luz verde na parte de baixo do relógio, que lê o pulso pela variação do sangue sob a pele.
+
+O estudo: o Huawei Heart Study acompanhou 187.912 pessoas usando esse sensor óptico. Só 0,23% receberam um aviso de suspeita de fibrilação atrial. De novo, o alerta é raro e direcionado.
+
+O resultado: o valor preditivo positivo do sinal de PPG foi de 91,6%. Entre os avisados que foram avaliados por médicos, 87% tiveram a fibrilação atrial confirmada. Um sinal de luz, bem processado, acertando a maioria das suspeitas.
+
+O contexto honesto: o PPG é barato e ótimo para rastrear muita gente. Mas ainda é triagem: leva você ao exame, não ao diagnóstico.
+
+Rastreio em escala é saúde pública. Diagnóstico é medicina individual. Os dois se completam.
+
+Fonte: Guo Y et al., Journal of the American College of Cardiology, 2019 (Huawei Heart Study).
+Conteúdo educativo, não substitui avaliação individual.
+Dr. Renato Oliveira, médico, CRM-SP 156357.
+
+#CienciaNoPulso #Wearables #FibrilacaoAtrial #Tecnologia

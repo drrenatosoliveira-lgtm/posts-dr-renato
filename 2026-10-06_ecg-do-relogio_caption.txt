@@ -1,0 +1,15 @@
+O ECG de uma derivação do smartwatch virou rotina. Mas quanto dá para confiar nele?
+
+O que a ciência diz: uma meta-análise de 2025 reuniu 26 estudos e mais de 17 mil pacientes. Os smartwatches tiveram sensibilidade de cerca de 95% e especificidade de cerca de 96% para fibrilação atrial, com desempenho parecido entre os que usam ECG e os que usam sensor de luz. É muito bom para um aparelho de pulso.
+
+O detalhe que muda tudo: são doze derivações contra uma. O ECG do hospital enxerga o coração de vários ângulos; o do relógio, de um só. É ótimo para olhar o ritmo e limitado para o resto, como isquemia e sobrecarga do coração.
+
+E os inconclusivos: parte dos registros vem sem classificação. Aí entra o olho clínico, que reduz a dúvida, mas não faz milagre.
+
+Conclusão: o ECG do relógio é uma excelente ferramenta de triagem. O diagnóstico e a conduta seguem sendo médicos.
+
+Fonte: Accuracy of Smartwatches in the Detection of Atrial Fibrillation (meta-análise), JACC: Advances, 2025.
+Conteúdo educativo, não substitui avaliação individual.
+Dr. Renato Oliveira, médico, CRM-SP 156357.
+
+#CienciaNoPulso #ECG #FibrilacaoAtrial #Wearables
