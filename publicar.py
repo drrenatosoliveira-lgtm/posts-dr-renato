@@ -177,6 +177,10 @@ def cmd_agenda(a):
         if it.get("status") != "pendente": continue
         quando = datetime.fromisoformat(it["quando"]).astimezone()
         if quando <= agora:
+            pub = cfg()
+            if not a.dry and (not token(pub) or not pub.get("contas", {}).get(it["marca"], {}).get("ig_user_id")):
+                # Sem token ou sem conta, publicar() só simula: não marcar como publicado.
+                print(f"[pulado] {it['slug']}: sem token ou sem ig_user_id para {it['marca']}"); continue
             print(f"→ publicando {it['slug']} (agendado {it['quando']})")
             ok = publicar(it["marca"], it["slug"], dry=a.dry)
             if ok and not a.dry:

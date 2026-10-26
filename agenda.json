@@ -383,5 +383,40 @@
   "tipo": "feed",
   "quando": "2026-10-24T20:00:00-03:00",
   "status": "publicado"
+ },
+ {
+  "marca": "cardiorace",
+  "slug": "2026-10-28_cr-manifesto",
+  "tipo": "feed",
+  "quando": "2026-10-28T18:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "cardiorace",
+  "slug": "2026-10-30_cr-seguranca-antes-da-largada",
+  "tipo": "feed",
+  "quando": "2026-10-30T18:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "cardiorace",
+  "slug": "2026-11-03_cr-aula-de-emergencia",
+  "tipo": "feed",
+  "quando": "2026-11-03T18:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "cardiorace",
+  "slug": "2026-11-05_cr-largada-de-todos",
+  "tipo": "feed",
+  "quando": "2026-11-05T18:00:00-03:00",
+  "status": "pendente"
+ },
+ {
+  "marca": "cardiorace",
+  "slug": "2026-11-07_cr-quem-move-a-corrida",
+  "tipo": "feed",
+  "quando": "2026-11-07T18:00:00-03:00",
+  "status": "pendente"
  }
 ]
