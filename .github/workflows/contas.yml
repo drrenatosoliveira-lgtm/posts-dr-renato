@@ -1,0 +1,26 @@
+name: Descobrir contas do Instagram
+
+# Lista as contas do Instagram que o token alcança (id e @), para preencher publicacao.json.
+on:
+  push:
+    branches: [claude/project-thread-uadxrl]
+    paths: [.github/workflows/contas.yml]
+
+jobs:
+  contas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Listar contas
+        env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          tok = os.environ["META_TOKEN"]
+          url = ("https://graph.facebook.com/v21.0/me/accounts?limit=100&fields="
+                 "name,instagram_business_account{id,username}&access_token=" + tok)
+          data = json.load(urllib.request.urlopen(url))
+          for p in data.get("data", []):
+              ig = p.get("instagram_business_account") or {}
+              print(f"{p.get('name')} | ig_user_id={ig.get('id', '-')} | @{ig.get('username', '-')}")
+          PY
