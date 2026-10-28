@@ -418,5 +418,12 @@
   "tipo": "feed",
   "quando": "2026-11-07T18:00:00-03:00",
   "status": "pendente"
+ },
+ {
+  "marca": "paraoka",
+  "slug": "2026-10-28_parceria-holmy",
+  "tipo": "carrossel",
+  "quando": "2026-10-28T19:00:00-03:00",
+  "status": "pendente"
  }
 ]
